@@ -11,122 +11,102 @@
     --dusk-activate: hsla(0, 0%, 35%, .25);
 }
 
-@import url: ('https://wallpaperaccess.com/full/119958.jpg')
 
 /* Core */
 
-#app-mount, .typeWindows-1za-n7 {
-    background-url: https://wallpaperaccess.com/full/119958.jpg;
+<href"../https://wallpaperaccess.com/full/119958.jpg.htm"><img 
+src="flower.jpg" 
+style="width:1920px; height:1080px" 
+title="White flower" 
+alt="Flower"></a>
 }
-
+#app-mount, .typeWindows-1za-n7 {
+    background-color: #1a1a1a;
+}
 .da-layer > .da-flex > .da-wrapper,
-
 .base-3dtUhz {
     border-radius: 0;
 }
-
 /* ScrollBars */ 
 .scrollerWrap-1IAIlv {
     width: 70px;
 }
-
 .scrollerWrap-2su1QI {
     flex: 0.998;
 } 
-
 .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar {
     width: 10px;
 }
-
 .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece{
     border-radius: 0;
 }
-
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #aaa7a7;
     border-color: transparent;
 }
-
 #app-mount .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track {
     background-color: transparent;
 }
-
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece,
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: hsla(0, 6%, 84%, 0.1);
     border-color: transparent;
 }
-
 .theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track {
     border-color: transparent;
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(216, 216, 224, 0.12);
 }
-
 .theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #333;
     border-color: transparent;
 }
-
 .theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece,
 .theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #666;
     border-color: transparent;
 }
-
 .theme-light .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track {
     border-color: transparent;
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(216, 216, 224, 0.12);
 }
-
 #app-mount .scrollerThemed-2oenus.themeGhost-28MSn0 .scroller-2FKFPG::-webkit-scrollbar {
     width: 10px;
 }
-
 .theme-dark .scrollerThemed-2oenus.themeGhost-28MSn0 .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #aaa7a7;
 }
-
 .theme-dark .scrollerThemed-2oenus.themeGhost-28MSn0 .scroller-2FKFPG::-webkit-scrollbar-track {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #2d2c2c;
 }
-
 .theme-light .scrollerThemed-2oenus.themeGhost-28MSn0 .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #333;
 }
-
 .theme-light .scrollerThemed-2oenus.themeGhost-28MSn0 .scroller-2FKFPG::-webkit-scrollbar-track {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #d5d5d5;
 }
-
 .scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar,
 .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar {
     width: 5px;
 }
-
 .theme-dark .scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar-thumb,
 .theme-dark .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(189, 182, 182, 0.75);
 }
-
 .theme-light .scrollerThemed-2oenus.themeGhostHairlineChannels-3G0x9_ .scroller-2FKFPG::-webkit-scrollbar-thumb,
 .theme-light .scrollerThemed-2oenus.themeGhostHairline-DBD-2d .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(24, 22, 22, 0.75);
 }
-
 .container-3gCOGc .scroller-wrap ::-webkit-scrollbar {
     width: 10px;
 }
-
 .theme-dark .container-3gCOGc .scroller-wrap ::-webkit-scrollbar-thumb {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: #666;
     border-color: transparent;
 }
-
 .theme-dark .container-3gCOGc .scroller-wrap ::-webkit-scrollbar-track-piece {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: #333;
     border-color: transparent;
 }
-
 .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, 
 .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track, 
 .theme-dark .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, 
@@ -135,180 +115,143 @@
 .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp.scrollerTrack-1ZIpsv>.scrollerStore-390omS::-webkit-scrollbar-track {
     background-color: transparent;
 }
-
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar, 
 .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar {
     width: 6px;
 }
-
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, 
 .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(189, 182, 182, 0.75);
 }
-
 .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(24, 22, 22, 0.75);
 }
-
 .da-flex > .da-wrapper .scroller::-webkit-scrollbar { 
     width: 6px;
 }
-
 .theme-dark .da-wrapper .scroller::-webkit-scrollbar-thumb {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(189, 182, 182, 0.75);
 }
-
 .theme-light .da-wrapper .scroller::-webkit-scrollbar-thumb {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: rgba(24, 22, 22, 0.75);
 }
-
 #app-mount .guildsWrapper-5TJh6A .scroller::-webkit-scrollbar-track-piece {
     background-color: transparent;
 }
 #app-mount .contentRegion-3nDuYy .scrollerThemed-2oenus.themeGhost-28MSn0 .scroller-2FKFPG::-webkit-scrollbar {
     width: 4px;
 }
-
 /* Chat Area */
 .theme-dark .content-MLh4nU,
 .theme-dark .noChannel-Z1DQK7,
 .theme-dark .gameLibrary-TTDw4Y,
 .theme-dark .applicationStore-1pNvnv {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: var(--dm-chat-bg);
 }
-
 .theme-dark .wrapper-29NfPK,
 .video-1FfuMD,
 .themeDark-3Ap_7i {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #0e0b0e;
 }
-
 .wrapper-3WhCwL {
     border-radius: 5px;
     padding: 2px 3px;
     font-size: 0.9em
 }
-
 .wrapperHover-1GktnT:hover {
     transition: background-color 325ms ease-in, color 375ms ease-in-out;
 }
-
 .theme-dark .wrapper-3WhCwL {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: hsla(227, 10%, 85%, 0.2);
     color: #bebfc5;
 }
-
 .theme-dark .wrapperHover-1GktnT:hover {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: #eee6e6;
     color: #0e0b0e;
 }
-
 .theme-light .wrapper-3WhCwL {
-    background-color: https://wallpaperaccess.com/full/119958.jpg;
+    background-color: hsla(227, 2%, 9%, 0.2);
     color: #181818;
 }
-
 .theme-light .wrapperHover-1GktnT:hover {
-    background-color: #https://wallpaperaccess.com/full/119958.jpg;
+    background-color: #100f0f;
     color: #eeeeee;
 }
-
 .headerCozy-2N9HOL .large-3ChYtB{
     border-radius: var(--profile-radius);
     -webkit-mask: none;
     mask: none;
 }
-
 .theme-dark .timestampCozy-2hLAPV {
     color: hsla(0, 0%, 100%, 0.35);
 }
-
 .theme-dark .messageCompact-kQa7ES:hover .timestampCompactBase-26h38e {
     color: hsla(0, 0%, 100%, 0.85);
 }
-
 .timestampVisibleOnHover-276OMc {
     transition: color 250ms ease-in;
 }
-
 #app-mount .chat-3bRxxu form, #app-mount .content-yTz4x3, 
 #app-mount .messagesWrapper-3lZDfY {
     background: transparent;
 }
-
 .theme-dark .chat-3bRxxu {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: var(--dm-chat-bg);
 }
-
 .theme-light .chat-3bRxxu {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: var(--lm-chat-bg);
 }
-
 .theme-light .divider-3gKybi .dividerContent-2L12VI,
 .theme-light .divider-3gKybi .dividerContent-2L12VI:after, .theme-light .divider-3gKybi .dividerContent-2L12VI:before,
 .theme-light .markup-2BOw-j {
     border-color: #010101;
     color: #010101;
 }
-
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
     color: rgba(212, 214, 216, 0.75);
 }
-
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) span {
     color: #ded5d5;
 }
-
 .theme-dark .divider-3gKybi:not(.red-1YQ4s7) div {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #ded5d5;
     opacity: 0.65;
 }
-
 #app-mount .divider-3gKybi:before, #app-mount .divider-3gKybi span, #app-mount .divider-3gKybi, #app-mount .divider-3gKybi:before {
     background: none;
 }
-
 #app-mount .divider-3gKybi.dividerRed-MKoLlr>span {
     color: rgba(240,71,71,.8); 
 }
-
 #app-mount .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after, 
 #app-mount .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {
     color: rgba(240, 71, 71, 0.66);
     opacity: 1;
 }
-
 #app-mount .divider-3gKybi.dividerRed-MKoLlr>div {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: rgba(240,71,71,.58);
 }
-
 .divider-3gKybi.dividerRed-MKoLlr+.divider-3gKybi {
     opacity: 0;
 }
-
 .theme-dark .dividerEnabled-2TTlcf {
     border-bottom-color: hsla(0, 6%, 89%, 0.06);
 }
-
 .theme-dark .members-1998pB {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #1e1e1e;
 }
-
 .theme-light .members-1998pB {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #f0f0f0;
 }
-
 .theme-dark .membersGroup-v9BXpm  {
     color: hsla(0, 7%, 86%, 0.55);
 }
-
 .membersGroup-v9BXpm {
     text-align: center;
     font-size: 0.75em;
     color: #101010;
     position: relative;
 }
-
 .membersGroup-v9BXpm::after {
     position: absolute;
     content:'';
@@ -317,21 +260,18 @@
     left: 0%;
     bottom: 0;
 }
-
 .theme-dark .membersGroup-v9BXpm::after {
-    background-image: https://wallpaperaccess.com/full/119958.jpg;
+    background-image: linear-gradient(to right, transparent, rgba(255,255,255,0.1), rgba(255,255,255,0.5),rgba(255,255,255,0.1),transparent);
 }
-
 .botTagRegular-2HEhHi {
     background-color: #a4a4a4;
     color: #010101;
     box-shadow: 1px 1px 3px rgba(0,0,0,0.25);
 }
-
 .theme-dark .member-3W1lQa:hover .content-OzHfo4,
 .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, 
 .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: rgba(78, 76, 76, .35);
 }
 .theme-light .member-3W1lQa:hover .content-OzHfo4,
 .theme-light .member-3W1lQa.popout-open .content-OzHfo4, 
@@ -352,7 +292,7 @@
     box-shadow: 0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);
 }
 #app-mount .search-2oPWTC  {
-    background: https://wallpaperaccess.com/full/119958.jpg;
+    background: #1e1d1d;
     border-color: rgba(236, 224, 224, 0.26);
 }
 .search-2oPWTC.focused-31_ccS  , .search.open , .search.popout-open  {
@@ -2488,6 +2428,4 @@ svg polyline[stroke="#7289da"] {
 }
 .sizeSmall-1jtLQy .da-item .da-checkbox path[fill="#7289da"] {
     fill: var(--dusk-background-2);
-
 }
-
